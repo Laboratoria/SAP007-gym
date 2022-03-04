@@ -10,4 +10,6 @@
 | [**First last 6**](./exercises/first-last-6/README.md)                      | newbie           | `arrays`    | Manipulação de arrays    |
 | [**Return Something to Me**](./exercises/return-something-warmup/README.md) | beginner         | `strings`   | Manipulação de strings   |
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
