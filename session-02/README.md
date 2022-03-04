@@ -14,4 +14,6 @@
 - [**Same on both ends**](./exercises/same-on-both-ends/README.md)
 - [**Secret Society**](./exercises/secret-society/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
