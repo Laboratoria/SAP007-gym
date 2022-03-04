@@ -4,7 +4,7 @@
 
 ### Newbie
 
-- [**Icy-hot**](./exercises/icy-hot/README.md )
+- [**Icy-hot**](./exercises/icy-hot/README.md)
 - [**comboString**](./exercises/combo-string/README.md)
 - [**Reverse 3**](./exercises/reverse3/README.md)
 
