@@ -1,5 +1,5 @@
-| difficulty   | OAs    | projects    |
-| ------------ | ------ | ----------- |
+| difficulty   | OAs     | projects    |
+| ------------ | ------- | ----------- |
 | intermediate | objects | data lovers |
 
 # Pangram
@@ -7,7 +7,7 @@
 [https://leetcode.com/problems/check-if-the-sentence-is-pangram/](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 
 Um **pangrama** é uma frase onde cada letra do alfabeto inglês aparece pelo
-menos uma vez pelo menos uma vez.
+menos uma vez.
 
 Dada uma "sentença" de string contendo apenas letras minúsculas em inglês,
 retorne `true` _se_ `sentence` _é um **pangrama**, ou_ `false` _caso contrário_.

@@ -16,4 +16,6 @@
 - [**Array diff**](./exercises/array-diff/README.md)
 - [**Pangram**](./exercises/pangram/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
