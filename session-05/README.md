@@ -16,4 +16,4 @@
 - [**Array diff**](./exercises/array-diff/README.md)
 - [**Pangram**](./exercises/pangram/README.md)
 
-↩️ [Voltar](./README.md)
+↩️ [Voltar](../README.md)
