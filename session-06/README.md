@@ -17,4 +17,6 @@
 
 - [**CSS Sunset**](./exercises/css-sunset/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
