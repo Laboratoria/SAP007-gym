@@ -15,3 +15,5 @@
 - ### [Sessão 05](./session-05/README.md)
 
 - ### [Sessão 06](./session-06/README.md)
+
+- ### [Sessão 07](./session-07/README.md)
