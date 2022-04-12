@@ -27,4 +27,6 @@
 
 - [**Let's Recycle**](./exercises/lets-recycle/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
