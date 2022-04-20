@@ -1,0 +1,14 @@
+{
+  "name": "sum-of-numbers-between",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
