@@ -18,10 +18,15 @@ para compartilhar.
   sessões de gym que tivemos?
 - Você aplicou o aprendizado do gym no desenvolvimento dos projetos?
   (compartilhe exemplos específicos que vêm à mente)
+
+  [Mentimeter 1](./mentimeter_1.pdf)
+
 - Durante a sprint, você dedica mais tempo fora do gym para praticar os
   exercícios? Você inclui uma tarefa para isso em seu planejamento?
 - Você participou ativamente das sessões do gym? Como você poderia participar
   mais?
+
+  [Mentimeter 2](./mentimeter_2.pdf)
 
 Tempo: 6 min por pergunta.
 
