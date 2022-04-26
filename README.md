@@ -21,3 +21,5 @@
 - ### [Sessão 08](./session-08/README.md)
 
 - ### [Sessão 09 (Retrospectiva)](./session-09/README.md)
+
+- ### [Sessão 10](./session-10/README.md)
