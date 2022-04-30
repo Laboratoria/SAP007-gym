@@ -33,4 +33,6 @@
 - [Can balance](./exercises/can-balance/README.md)
 - [Simple Elevator](./exercises/simple-elevator/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
