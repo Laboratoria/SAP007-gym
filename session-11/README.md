@@ -28,4 +28,6 @@
 
 - [Star Lovers Challenge](./exercises/star-lovers-challenge/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
