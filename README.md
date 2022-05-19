@@ -25,3 +25,7 @@
 - ### [Sessão 10](./session-10/README.md)
 
 - ### [Sessão 11](./session-11/README.md)
+
+- ### [Tech mock mock interview 01](./tech-mock-mock-interview-01/README.md)
+
+- ### [Tech mock mock interview 02](./tech-mock-mock-interview-02/README.md)
