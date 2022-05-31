@@ -29,4 +29,6 @@
 
 - [Convert Hash To An Array](./exercises/convert-hash-to-an-array/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
