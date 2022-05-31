@@ -31,3 +31,5 @@
 - ### [Tech mock mock interview 02](./tech-mock-mock-interview-02/README.md)
 
 - ### [Sessão 12](./session-12/README.md)
+
+- ### [Sessão 13](./session-13/README.md)
