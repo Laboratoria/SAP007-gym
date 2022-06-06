@@ -32,4 +32,6 @@
 
 - [The Lift](./exercises/the-lift/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
