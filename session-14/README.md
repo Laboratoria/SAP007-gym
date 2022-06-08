@@ -20,4 +20,6 @@
 
 - [Triangle](./exercises/triangle/README.md)
 
+[Kahoot](./kahoot/README.md)
+
 ↩️ [Voltar](../README.md)
